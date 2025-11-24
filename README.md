@@ -45,6 +45,10 @@ A dissertação foi desenvolvida no Instituto de Psiquiatria (IPUB) da Universid
 10. `10- GRADE por metanalise/`  
     Inclui `GRADE-PRO.mhtml`, arquivo exportado do GRADEpro com o GRADE de cada metanálise.
 
+11. `11- Search results/`  
+    Inclui os resultados das buscas exportados das bases de dados analisadas (MEDLINE/PubMed, Cochrane, Sciedo, Embase e Web of Science).
+
+   
 ## Uso dos dados
 
 Os arquivos são disponibilizados para fins de transparência, reprodutibilidade e aprofundamento metodológico. Recomenda-se que qualquer reutilização dos dados, figuras ou códigos cite adequadamente a dissertação original e este repositório.
